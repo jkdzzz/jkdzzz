@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in cyber sec
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkdzzz&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" alt="Your Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkdzzz&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" alt="jkdzzz Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdzzz&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%">
 </div>
 
